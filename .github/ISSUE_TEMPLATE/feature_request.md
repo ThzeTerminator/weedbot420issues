@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for the bot
 title: ''
-labels: not yet reviewed
+labels: idea, not yet reviewed
 assignees: ''
 
 ---

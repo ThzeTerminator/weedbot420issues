@@ -2,7 +2,7 @@
 name: Bug report
 about: Report bugs related to weedbot420 here
 title: ''
-labels: not yet reviewed
+labels: bug, not yet reviewed
 assignees: ''
 
 ---
