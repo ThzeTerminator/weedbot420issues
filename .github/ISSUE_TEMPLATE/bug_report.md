@@ -9,7 +9,7 @@ assignees: ''
 
 **READ ME FIRST!!!**
 Your issue will be automatically closed if the issue stems from a lack of permissions. The bot should always be allowed to read and write messages, images and embeds. I can't edit Discord Guild permissions. Blacklisted users **cannot** use any commands, though the bot will respond.
-Furthermore, this is a bug report, not an appeal to be taken off the blacklist. Such requests are also autmatically closed. Remove this part to prove you've read the section.
+Furthermore, this is a bug report, not an appeal to be taken off the blacklist. Such requests are also autmatically closed, as they're supposed to go through dbot@thzeterminator.eu. Remove this part to prove you've read the section.
 
 **Is this a bug related to a command? If so, which one?**
 Please provide the full command you've entered, including arguments and where you've entered it (e.g DM or Guild). Avoid using the aliasses. 
