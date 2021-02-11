@@ -1,0 +1,13 @@
+name: Auto Comment
+on: [issues, pull_request]
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: bubkoo/auto-comment@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          issuesOpened: >
+            👋 @{{ author }}
+            
+            Thank you for raising an issue. I'll look into this issue as soon as possible. Make sure you've provided as much information as possible!
